@@ -1,0 +1,13 @@
+com\gabriel\atividade\Models\ApostadorRepository.class
+com\gabriel\atividade\Models\PartidaModel.class
+com\gabriel\atividade\Models\ApostaRepository.class
+com\gabriel\atividade\demo\DemoApplication.class
+com\gabriel\atividade\Models\PessoasModel.class
+com\gabriel\atividade\Models\ApostadorModel.class
+com\gabriel\atividade\Models\RodadaModel.class
+com\gabriel\atividade\Models\RodadaRepository.class
+com\gabriel\atividade\Models\ApostaModel.class
+com\gabriel\atividade\Models\SelecaoModel.class
+com\gabriel\atividade\Models\PessoasRepository.class
+com\gabriel\atividade\Models\SelecaoRepository.class
+com\gabriel\atividade\Models\PartidaRepository.class
